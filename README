@@ -1,0 +1,24 @@
+Call Center Performance Dashboard-:
+
+*Project Overview-:
+This project showcases a comprehensive dashboard on call center performance using Power BI. The dataset includes metrics such as call volume, answer rate, average handling time, call resolution rate, and agent performance.
+
+- *Columns:
+    - Call Date
+    - Call Time
+    - Call Duration
+    - Answer Rate
+    - Average Handling Time (AHT)
+    - Agent Name
+
+*Dashboard Features-:
+
+- Call Volume Analysis: Breakdown of incoming calls by month
+- Answer Rate Analysis: Measure of the total no. of calls answered.
+- Average Handling Time (AHT): Calculation of the average time spent on call.
+- Agent Performance:Agents performance of calls.
+
+*Technical Details-:
+
+- *Tools:* Power BI
+- *Data Visualization:* Tables, Charts, Gauges
